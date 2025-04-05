@@ -98,7 +98,7 @@
     </div>
     
     <footer style="margin-top: 50px; padding: 20px; background: #fff; box-shadow: 0 -2px 4px rgba(0,0,0,0.1);">
-        &copy; 2025 - Bản quyền thuộc về Lotus
+        &copy; 2025 - Bản quyền thuộc về LOCALFOOD
     </footer>
 </body>
 </html>

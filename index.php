@@ -22,8 +22,8 @@ session_start();
     </header>
 
     <div class="container">
-        <h1>Chào Mừng Đến Với LOTUS</h1>
-        <p>Đây là nơi bạn có thể khám phá các dịch vụ tuyệt vời của chúng tôi. Hãy đăng ký hoặc đăng nhập để trải nghiệm ngay hôm nay!</p>
+        <h1>Chào Mừng Đến Với LOCALFOOD</h1>
+        <p>Đây là nơi giúp bạn biết đến nhiều món ăn ngon, đặc sản từ mọi vùng miền ở Việt Nam. Hãy đăng ký hoặc đăng nhập để trải nghiệm ngay hôm nay!</p>
         <div class="buttons">
             <a href="register.php" class="btn-primary">Đăng Ký</a>
             <a href="login.php" class="btn-secondary">Đăng Nhập</a>
@@ -31,7 +31,7 @@ session_start();
     </div>
 
     <footer>
-        <p>&copy; 2025 - Bản quyền thuộc về Lotus</p>
+        <p>&copy; 2025 - Bản quyền thuộc về LOCALFOOD</p>
     </footer>
 </body>
 </html>
